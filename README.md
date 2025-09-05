@@ -20,6 +20,11 @@ This project is inspired by the *Frontend Mentor Challenge* and focuses on pract
 
 ---
 
+## 🌟 Live Demo
+🔗 [Click here to view](https://project-social-link-profile.netlify.app/)
+
+---
+
 ## 📂 Project Structure
 ```bash
 ├── index.html      # Main HTML file
@@ -27,15 +32,6 @@ This project is inspired by the *Frontend Mentor Challenge* and focuses on pract
 │   ├── avatar-jessica.jpeg
 │   └── mobile-design.jpg
 
----
-
-## 🎯 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/DamaniSahu/Social-Link-Profile.git
-
-## 🌟 Live Demo
-🔗 [Click here to view](https://project-social-link-profile.netlify.app/)
 
 
 
