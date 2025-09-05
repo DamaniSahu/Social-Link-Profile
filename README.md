@@ -29,14 +29,13 @@ This project is inspired by the *Frontend Mentor Challenge* and focuses on pract
 
 ---
 
-## 🎯 How to use
+## 🎯 How to Use
 1. Clone this repository:
+   ```bash
    git clone https://github.com/DamaniSahu/Social-Link-Profile.git
-2. Open the project folder.
-3. Run the index.html file in your browser. 🚀
 
----
 ## 🌟 Live Demo
-https://project-social-link-profile.netlify.app/
+🔗 [Click here to view](https://project-social-link-profile.netlify.app/)
+
 
 
