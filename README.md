@@ -29,7 +29,7 @@ This project is inspired by the *Frontend Mentor Challenge* and focuses on pract
 
 ---
 
-## 🎯 𝗛𝗼𝘄 𝘁𝗼 𝗨𝘀𝗲
+## 🎯 How to use
 
 1. Clone this repository:
    git clone https://github.com/DamaniSahu/Social-Link-Profile.git
@@ -37,8 +37,7 @@ This project is inspired by the *Frontend Mentor Challenge* and focuses on pract
 3. Run the index.html file in your browser. 🚀
 
 ---
-
-## 🌟 𝗟𝗶𝘃𝗲 𝗗𝗲𝗺𝗼
+## 🌟 Live Demo
 https://project-social-link-profile.netlify.app/
 
 
