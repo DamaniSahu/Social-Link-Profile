@@ -30,7 +30,6 @@ This project is inspired by the *Frontend Mentor Challenge* and focuses on pract
 ---
 
 ## 🎯 How to use
-
 1. Clone this repository:
    git clone https://github.com/DamaniSahu/Social-Link-Profile.git
 2. Open the project folder.
